@@ -3,7 +3,7 @@ SodaqONE sketches
 
 Experiments with my [SodaqONE](http://sodaq.com) board.
 
-*blink_sketch_may25a*: the first working sketch. Choose a led (red, blue or green) and let it blink every second.
+**blink_sketch_may25a**: the first working sketch. Choose a led (red, blue or green) and let it blink every second.
 
 
 License
